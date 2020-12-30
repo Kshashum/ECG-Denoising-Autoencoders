@@ -3,5 +3,5 @@ We are using autoencoders to denoise nosiy ECG signals, the ECG data is fetched 
 
 there are 3 prominent noises in ECG and we are using 3 different autoencoders to denoise it.
 
-the above models can are built to be run on google colab
+the above models are built to be run on google colab
 
