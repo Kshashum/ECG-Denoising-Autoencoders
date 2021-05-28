@@ -42,4 +42,5 @@ The noise is extracted from MIT-BIH Noise Stress Test Database, which consists o
 (a) Pure ECG signal (b) EM added ECG signal
 (c) Denoised ECG signal(10X) (d) Denoised vs Pure ECG
 <br/>
+<br/>
 All the code for the used for the above documentation is provided in form of jupyter notebook, and can be used readily in google colab.
