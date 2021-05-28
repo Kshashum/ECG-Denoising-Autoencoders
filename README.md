@@ -21,7 +21,7 @@ The noise is extracted from MIT-BIH Noise Stress Test Database, which consists o
 
 ## Sample Results
 ### Muscle Artifact
-<img src='./muscleartifact.png'>
+<img src='./results/muscleartifact.png'>
 <br/>
 (a) Pure ECG signal (b) MA added ECG signal   
 (c) Denoised ECG signal(10X) (d) Denoised vs Pure Signal
@@ -29,7 +29,7 @@ The noise is extracted from MIT-BIH Noise Stress Test Database, which consists o
 <br/>
 
 ### Baseline Wander
-<img src='./Baselinewander.png'>
+<img src='./results/Baselinewander.png'>
 <br/>
 (a) Pure ECG signal (b) BW added ECG signal
 (c) Denoised ECG signal (10X Comp) (d) Denoised vs Pure ECG
@@ -37,8 +37,9 @@ The noise is extracted from MIT-BIH Noise Stress Test Database, which consists o
 <br/>
 
 ### Electrode Motion
-<img src='./electrodemotion.png'>
+<img src='./results/electrodemotion.png'>
 <br/>
 (a) Pure ECG signal (b) EM added ECG signal
 (c) Denoised ECG signal(10X) (d) Denoised vs Pure ECG
-
+<br/>
+All the code for the used for the above documentation is provided in form of jupyter notebook, and can be used readily in google colab.
